@@ -1,8 +1,5 @@
 ### :whale: Hi I am Sutin Injitt Developer For FrontEnd/Backend :snake:
 
-### Connect With Me <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-512.png" />
-
-
 ### Activity 
 
 <img src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/49032999_2232738657002009_5766530676245397504_n.jpg?_nc_cat=107&_nc_sid=8bfeb9&_nc_eui2=AeFOnAzzdNB6-p8oQXovFY4GagGL0K4W7g1qAYvQrhbuDU3D5yn5E8nK8ZroE8KNE6a9eUntt-d8xBwC5nmVTYKY&_nc_ohc=XQAkhAj_350AX-UmsXy&_nc_ht=scontent.fbkk5-7.fna&oh=579840d9665a46f6b571a069899556e4&oe=5F49565D" />
