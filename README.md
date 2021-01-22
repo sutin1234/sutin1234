@@ -1,4 +1,4 @@
-### :whale: Hi I am Sutin Injitt Developer For FrontEnd/Backend :snake:
+### :whale: Hi I am Sutin Injitt Developer For Fullstack Tech :snake:
 
 ### Activity 
 
