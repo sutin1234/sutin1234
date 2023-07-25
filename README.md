@@ -7,7 +7,7 @@
 ### About me
 
 - [x] Sutin Injitt (thin)
-- [x] Age 32 year old
+- [x] Age 33 year old
 - [x] Passion for programming is life, mind.
 
 ### Educatuion
@@ -54,7 +54,11 @@
 
 - [x] Git 
   - [x] github
-  - [x] gitlab 
+  - [x] gitlab
+        
+- [X] Docker
+  - [X] Docker command
+  - [X] Podman 
 
 ### Task Management
 - [X] Jira
