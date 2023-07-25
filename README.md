@@ -66,6 +66,7 @@
 
 ### Hobby
 - [x] Netflix
+- [X] Write article in medium
 - [X] Stable Diffusion AI
 - [X] hit the gym at home and exercise
 
