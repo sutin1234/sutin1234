@@ -18,6 +18,8 @@
 - [X] Consult Team
 - [X] Learn for DX better way
 
+<img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/355123612_3512769868998875_3577152423803643190_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHfbovsNGRC0U6JRVjrTv07upJTs9pRW926klOz2lFb3WcYZ2eyuxdjORe33xNmKXe3Fuj7HKQbwyaptyVuhmU9&_nc_ohc=Vb9CtpUeff4AX84FPGK&_nc_ht=scontent.fbkk5-5.fna&oh=00_AfBppLE56hQGYRngSbO5rL4zf9uZ7PNylNdu44RdsgvTXw&oe=64C44893" />
+
 ### Skills
 - [x] Full stack Developer
 
