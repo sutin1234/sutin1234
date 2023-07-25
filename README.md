@@ -13,6 +13,9 @@
 
 ### Working Experience
 - [x] More than 5 years working experience
+- [X] Technical & code share
+- [X] Consult Team
+- [X] Learn for DX better way
 
 ### Skills
 - [x] Full stack Developer
