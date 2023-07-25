@@ -17,7 +17,7 @@
 ### Skills
 - [x] Full stack Developer
 
-### Strength Language
+### Programming Language
 - [x] Frontend
   - [x] Angular 12+
   - [x] Vue 3+
@@ -43,5 +43,7 @@
 
 ### Hobby
 - [x] Netflix
+- [X] Stable Diffusion AI
+- [X] hit the gym at home and exercise
 
 
