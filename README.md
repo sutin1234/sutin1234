@@ -58,7 +58,8 @@
         
 - [X] Docker
   - [X] Docker command
-  - [X] Podman 
+  - [X] Podman
+  - [X] Minikube
 
 ### Task Management
 - [X] Jira
