@@ -75,7 +75,7 @@
 - [X] Write article in medium
 - [X] Stable Diffusion AI
 - [X] hit the gym at home and exercise
-- [X] Trader Gold
+- [X] Trader technical Gold
 
 <img src="https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/359385334_3527642820844913_949360652366279246_n.jpg?_nc_cat=110&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEIPi9eJkgRt99QVh920F-NB5YlKmpjTD8HliUqamNMP-ccmQhsKeHhf2BGdz9Bv-ZzfwBLFCM3ZLdEnvHgecDv&_nc_ohc=k1s7NQ3GMTcAX9Sr3pe&_nc_ht=scontent.fbkk5-4.fna&oh=00_AfBKxyRxc68zDiGN3uVxcInvDEdDlM6mnTSnap34E9Cchg&oe=64C4A2D0" /> 
 
