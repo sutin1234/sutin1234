@@ -1,5 +1,4 @@
 ### :whale: Hi I am Sutin Injitt Developer For Fullstack Tech :snake:
-<img src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-6/338741105_130420846528000_3119695893110284636_n.jpg?_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeG1UuVMW9E4daYv7UcCCja0zz2V5G0rVIvPPZXkbStUi-QjHsbLEXxYs4RmlfjOokxeZPnmRxc9Us0YHcpShsr7&_nc_ohc=mLgnc9lKUqkAX8h_Z87&_nc_ht=scontent.fbkk5-7.fna&oh=00_AfDmIdWx3tDjupzXr_0GJitbbzIiC5k-EFvmGHGfAs6y3g&oe=64C3C098" />
 
 ### Mindset
 <img src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t39.30808-6/357012904_3520718961537299_7269356057051113409_n.jpg?_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHRxrc0YyDztCbcZq-inwQdv7-7D__bidi_v7sP_9uJ2FU3S3jqZ3JAdafU0l-4YsqrbVCavpwyeSfPkFTHa0YA&_nc_ohc=TqhPFNK8MswAX_F09VL&_nc_ht=scontent.fbkk5-3.fna&oh=00_AfAqEVZ6KcRFfbdjcMkiHRnxx5IV05tb3gbRrajuQ26_kA&oe=64C4648C" />
