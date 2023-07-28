@@ -1,7 +1,8 @@
 ### :whale: Hi I am Sutin Injitt Developer For Fullstack Tech :snake:
 
-### Mindset
-<img src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t39.30808-6/357012904_3520718961537299_7269356057051113409_n.jpg?_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHRxrc0YyDztCbcZq-inwQdv7-7D__bidi_v7sP_9uJ2FU3S3jqZ3JAdafU0l-4YsqrbVCavpwyeSfPkFTHa0YA&_nc_ohc=TqhPFNK8MswAX_F09VL&_nc_ht=scontent.fbkk5-3.fna&oh=00_AfAqEVZ6KcRFfbdjcMkiHRnxx5IV05tb3gbRrajuQ26_kA&oe=64C4648C" />
+<a href="https://app.daily.dev/sutin2022">
+ <img src="https://api.daily.dev/devcards/4c6e3aa52c6d435b8599646d6bf29fb6.png?r=cte" width="400" alt="poly Dev's Dev Card"/>
+</a>
 
 ### About me
 
